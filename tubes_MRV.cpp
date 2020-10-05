@@ -13,6 +13,9 @@ void submenuSPL(){
 void submenuDet(){
     cout<<"Hehe";
 }
+void submenuBalikan(){
+
+}
 
 //--Menu Utama--
 void menu(){
@@ -30,7 +33,8 @@ void menu(){
             submenuDet();
         break;
         case 3:
-
+            submenuBalikan();
+        break;
     }
 }
 

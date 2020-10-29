@@ -1,5 +1,3 @@
-# Tubes-MRV
+# Matriks
 
-  Tugas Besar dari Matriks Ruang Vektor
-  
-  *bagi pengguna windows ganti clear menjadi cls
+  program mencari Sistem Persamaan linear dengan metode gauss,gauss jordan, balikan, dan krammer, serta program dapat menghitung determinan dan matriks balikan
